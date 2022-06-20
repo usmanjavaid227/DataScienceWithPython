@@ -50,7 +50,7 @@ _...and the list could go on and we didn't dive into sub-categories (but you get
 
 ## Master the Data Science Workflow
 
-![Data Science Workflow](jupyter/img/ds-workflow.png)
+![Data Science Workflow](jupyter/starter/img/ds-workflow.png)
 
 - Understanding what matters
   - The full workflow
